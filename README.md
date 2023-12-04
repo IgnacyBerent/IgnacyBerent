@@ -29,5 +29,6 @@ ___
 
 ___
  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IgnacyBerent&layout=compact&show_icons=true&theme=radical)](https://github.com/IgnacyBerent/github-readme-stats)
-
+ 
+<a href=https://wakatime.com/@IgnacyBerent> WakaTime account created on 03.12.2023r </a>
 
