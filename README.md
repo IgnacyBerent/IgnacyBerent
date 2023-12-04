@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+___
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IgnacyBerent&show_icons=true&theme=radical&count_private=true&card_width=320" />
 </a>
@@ -25,8 +27,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacyBerent&layout=compact&show_icons=true&theme=radical&card_width=220" />
 </a>
 
-<!--
-<a>
-<img width=480 src = "https://github-readme-stats.vercel.app/api/wakatime?username=IgnacyBerent&show_icons=true&theme=radical)](https://github.com/IgnacyBerent/github-readme-stats" />
-</a>
--->
+___
+ [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IgnacyBerent&layout=compact&show_icons=true&theme=radical)](https://github.com/IgnacyBerent/github-readme-stats)
+
+
