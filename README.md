@@ -1,34 +1,66 @@
-### Welcome to my Profile! 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IgnacyBerent.IgnacyBerent" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FE428E&lines=Welcome+to+my+GitHub!;+I'm+Ignacy+Berent!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Poland</h3>
+
+<br/>
+
+<div align="center">
+
 📙  medical informatics student at Wrocław University of Science and Technology
 
 🦾 aspiring to become an AI developer
 
 ⚡ passionate about various things like self-improvement, philosophy, bodybuilding, and trading.
-<!--
-**IgnacyBerent/IgnacyBerent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning **Kotlin, Flutter, TensorFlow** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ </div>
 
-___
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IgnacyBerent&show_icons=true&theme=radical&count_private=true&card_width=320" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacyBerent&layout=compact&show_icons=true&theme=radical&card_width=220" />
-</a>
-
-___
- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IgnacyBerent&layout=compact&show_icons=true&theme=radical)](https://github.com/IgnacyBerent/github-readme-stats)
+<div align="center"> 
+  <a href="mailto:2gb02ignac@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/ignacy-berent-74b355278" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <!--
+  <a href="" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
  
-<a href=https://wakatime.com/@IgnacyBerent> WakaTime account created on 03.12.2023r </a>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,latex,firebase,androidstudio,bootstrap,postman" />
+    <img src="https://skillicons.dev/icons?i=python,kotlin,dart,cpp,selenium,html,css,mysql,flask,flutter,tensorflow" />
+  <br>
+</div>
+
+ <hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+
+
+<div align=center>
+
+<img height=200 width=440 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=IgnacyBerent&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+<img height=200 width=295 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacyBerent&layout=compact&show_icons=true&theme=radical&card_width=220&border_radius=10" />
+
+<br/>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IgnacyBerent&layout=compact&show_icons=true&theme=radical)](https://github.com/IgnacyBerent/github-readme-stats)
+
+<a align="center" href=https://wakatime.com/@IgnacyBerent> WakaTime account created on 03.12.2023r </a>
+ </div>
+ 
+
 
