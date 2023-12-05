@@ -48,8 +48,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-
-
 <div align=center>
 
 <img height=200 width=440 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=IgnacyBerent&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
@@ -61,6 +59,12 @@
 
 <a align="center" href=https://wakatime.com/@IgnacyBerent> WakaTime account created on 03.12.2023r </a>
  </div>
- 
+
+<hr/>
+
+<h2 align="center">⚒️Contributions graph ⚒️</h2>
+<br/>
+
+[![My contributions graph](https://github-readme-activity-graph.vercel.app/graph?username=IgnacyBerent&bg_color=141321&color=FE428E&line=F8D847&point=FC9243&area=true&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
