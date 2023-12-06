@@ -62,7 +62,7 @@
 
 <hr/>
 
-<h2 align="center"> <img src="./meancing.svg" width="32"> Contributions graph <img src="./meancing.svg" width="32"> </h2>
+<h2 align="center"> <img src="./meancing.svg" width="32"> Contributions <img src="./meancing.svg" width="32"> </h2>
 <br/>
 
 [![My contributions graph](https://github-readme-activity-graph.vercel.app/graph?username=IgnacyBerent&bg_color=141321&color=FE428E&line=F8D847&point=FC9243&area=true&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
