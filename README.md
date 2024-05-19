@@ -38,10 +38,15 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,postman,github,git,vscode,androidstudio,bootstrap,selenium,latex" />
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,flask,dart,flutter,kotlin,java,spring,ts,react,html,css,cpp,rust" />
-  <br>
+    <img src="https://skillicons.dev/icons?i=python,dart,kotlin,java,ts,html,css,cpp,rust" />
 </div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,flask,flutter,spring,react" />
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,postman,github,git,vscode,androidstudio,bootstrap,selenium,latex" />
+</div>
+<br>
 
  <hr/>
 
