@@ -16,7 +16,7 @@
 
 ⚡ passionate about various things like self-improvement, philosophy, bodybuilding, and trading.
 
-🌱 I’m currently learning **Rust, TensorFlow** 
+🌱 I’m currently learning **Rust, React** 
 
  </div>
 
