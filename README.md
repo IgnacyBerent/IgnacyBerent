@@ -14,7 +14,7 @@
 
 🦾 aspiring to become an AI developer
 
-⚡ passionate about various things like self-improvement, philosophy, bodybuilding, and trading.
+⚡ passionate about various things like self-improvement, philosophy, bodybuilding, and sales.
 
 🌱 I’m currently learning **Rust, React** 
 
