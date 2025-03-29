@@ -12,11 +12,7 @@
 
 📙  medical informatics student at Wrocław University of Science and Technology
 
-🦾 aspiring to become an AI developer
-
 ⚡ passionate about various things like self-improvement, philosophy, bodybuilding, and sales.
-
-🌱 I’m currently learning **Rust, React** 
 
  </div>
 
@@ -35,16 +31,24 @@
  
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,dart,kotlin,java,ts,html,css,cpp,rust" />
+    <img src="https://skillicons.dev/icons?i=python,dart,kotlin,java,ts,html,css" />
 </div>
+<br>
+
+<h2 align="center">⚒️ Libraries / Frameworks ⚒️</h2>
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,flask,flutter,spring,react" />
 </div>
+<br>
+
+<h2 align="center">⚒️ Tools ⚒️</h2>
+<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,postman,github,git,vscode,androidstudio,bootstrap,selenium,latex" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,postman,github,git,docker,vscode,androidstudio,bootstrap,selenium,latex" />
 </div>
 <br>
 
