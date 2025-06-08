@@ -34,21 +34,21 @@
 <h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,dart,kotlin,java,ts,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,ts,html,css,dart,rust,java,kotlin" />
 </div>
 <br>
 
 <h2 align="center">⚒️ Libraries / Frameworks ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,flask,flutter,spring,react" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,django,react,tailwind,flutter,spring" />
 </div>
 <br>
 
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,postman,github,git,docker,vscode,androidstudio,bootstrap,selenium,latex" />
+    <img src="https://skillicons.dev/icons?i=docker,postman,postgres,firebase,latex,selenium" />
 </div>
 <br>
 
