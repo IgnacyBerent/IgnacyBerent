@@ -58,10 +58,7 @@
 <br>
 
 <div align=center>
-
 <img height=200 width=440 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=IgnacyBerent&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
-<img height=200 width=295 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacyBerent&layout=compact&show_icons=true&theme=radical&card_width=220&border_radius=10" />
-
 <br/>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IgnacyBerent&layout=compact&show_icons=true&theme=radical)](https://github.com/IgnacyBerent/github-readme-stats)
