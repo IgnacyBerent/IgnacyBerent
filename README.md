@@ -1,10 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IgnacyBerent.IgnacyBerent" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FE428E&lines=Welcome+to+my+GitHub!;+I'm+Ignacy+Berent!;" />
+    Welcome to my GitHub!
+</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FE428E&lines=My+name+is+Ignacy;I+use+Arch+btw;And+I+use+Vim+btw+too" />
 </h1>
 
-<h3 align="center">A passionate software developer from Poland</h3>
+<h3 align="center">I am a passionate software developer from Poland</h3>
 
 <br/>
 
